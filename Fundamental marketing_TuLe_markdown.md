@@ -29,10 +29,10 @@
 - Acquisition: Getting new customers.
 
 **Connect through mail**: (email marketing)
-## ` `***1. Basic:***
-`    `Have a form for a subscription online -> list of information about customer to contact
+## ***1. Basic:***
+Have a form for a subscription online -> list of information about customer to contact
 
-`    `Ask customer if they want to receive email for special event or specific coupon
+Ask customer if they want to receive email for special event or specific coupon
 ## ***2. Option:*** 
 - Customize form to ask specific information: email address to get started for customer
 - Use email tool to preview email on different devices.
