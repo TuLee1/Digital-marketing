@@ -1,4 +1,4 @@
-﻿**Search engine**: 3 tasks
+## **Search engine**: (3 tasks)
 
 - ***crawlin***g: examine the content they learn about and have permission to see
 
