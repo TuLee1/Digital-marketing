@@ -1,10 +1,10 @@
 ﻿**Search engine**: 3 tasks
 
-\1. ***crawlin***g: examine the content they learn about and have permission to see
+- ***crawlin***g: examine the content they learn about and have permission to see
 
-\2. ***indexing***: categorize each piece of content
+- ***indexing***: categorize each piece of content
 
-\3. ***ranking***: decide which content is most useful for searcher
+- ***ranking***: decide which content is most useful for searcher
 
 **SEO:**
 ## ***plan:***
