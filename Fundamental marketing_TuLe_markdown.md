@@ -27,7 +27,7 @@
 
 
 **Connect through mail**: (email marketing)
-## ` `***1. Basic:***
+## ***1. Basic:***
 `    `Have a form for a subscription online -> list of information about customer to contact
 
 `    `Ask customer if they want to receive email for special event or specific coupon
